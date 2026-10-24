@@ -1,0 +1,87 @@
+form {
+    background-color: rgba(255, 255, 255, 0.201); 
+    max-width: 400px;
+    margin: 10px ;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: auto;
+    position: left;
+    margin-left: 50px;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+  }
+  h1{
+    margin-left: 50px;
+  }
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.4); 
+  }
+  
+  button[type="submit"] {
+    background-color: #fff;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #ccc;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+  }
+
+  body{
+    background-color: black;
+    background: url(Images/pexels-rajesh-r-kunjumon-2260391-5434666.jpg);
+    background-position:right bottom 2%;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-color: black;
+  }
+
+  header
+{
+ font-family: "Gill Sans", sans-serif;
+ font-weight: bold;
+ background-color: none;
+ opacity:1;
+ margin: none;
+ color: white;
+ background: rgba(0, 0, 0, 0.5); 
+ padding: 1px;
+ text-align: left;
+ width: 100%;
+ position: center;
+
+}
+footer 
+{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    height: 50px;
+    position: static;
+    width: 100%;
+    bottom: 0;
+    opacity: 0.5;
+    padding: 10px;
+}
+a{
+    color: #ccc;
+}

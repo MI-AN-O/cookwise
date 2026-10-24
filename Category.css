@@ -1,0 +1,40 @@
+body
+{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: black;
+    color: #fff;
+}
+
+header
+{
+    background: rgba(255, 255, 255, 0.1);
+    padding: 0.5rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a
+{
+    color: #ccc;
+}
+
+main
+{
+    padding: 2rem;
+}
+
+.recipe
+{
+    border-bottom: 1px solid #ccc;
+    padding: 1rem 0;
+}
+
+footer
+{
+    background-color: #333;
+    text-align: center;
+    padding: 10px;
+    opacity: 0.5;
+}

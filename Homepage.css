@@ -1,0 +1,113 @@
+body 
+{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  
+    background-position: right bottom  ;
+    
+    background-color: black;
+    background-size: 90%;
+}
+
+header 
+{
+    background:url(Images/IMAGE6.jpg);
+    background-position: bottom left 120%;
+    background-color: black;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+    font-size: 25px;
+    border : #ccc 2.5px;
+    border-style: solid;  
+    
+    
+}
+
+nav ul
+{
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li 
+{
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav ul li a 
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+main 
+{
+    padding: 2rem;
+}
+
+section 
+{
+    padding: 30px 0;
+    border-bottom: 1px solid #ccc;
+    background:url(Images/IMAGE4.jpeg) ;
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    background-size: 15%;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+
+}
+#section1{
+    background-image:url(Images/pexels-catscoming-3752075.jpg) ;
+    background-color: black;
+    background-size: 35%;
+    background-position: bottom 50% right;
+}
+#section2{
+    background-image:url(Images/pexels-pixabay-70842.jpg) ;
+    background-color: black;
+    background-position: bottom 65% right ;
+    background-size: 25%;
+
+
+}
+#section3{
+    background-image:url(Images/pexels-catscoming-1907244.jpg) ;
+    background-color: black;
+    background-size: 20%;
+    background-position: bottom 26% right;
+    background-size: 30%;
+}
+#section4{
+    background:url(Images/IMAGE7.jpeg) ;
+    background-color: black;
+    background-size: 20%;
+    background-position: bottom 60% right;
+    background-repeat: no-repeat;
+}
+
+footer 
+{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    height: 45px;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    opacity: 0.5;
+    padding: 15px;
+    font-size: 15px;
+}
+section h2 a
+{
+    color: #fff;
+    text-decoration: none;
+}
